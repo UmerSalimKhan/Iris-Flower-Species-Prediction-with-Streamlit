@@ -1,7 +1,5 @@
 # Iris Flower Species Prediction with Streamlit
 
-![Iris Flower]([path/to/image.png](https://cdn.pixabay.com/photo/2020/04/30/23/22/iris-5114911_1280.jpg))
-
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Tech Stack](#tech-stack)
@@ -105,4 +103,4 @@ In this project, we successfully built and evaluated multiple machine learning m
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
